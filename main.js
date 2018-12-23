@@ -12,7 +12,8 @@ app.on('ready', function() {
   mainWindow = new BrowserWindow({
     width: 300,
     height: 525,
-    frame: false
+    frame: false,
+    resizable: false
   });
 
   // Load html into window
