@@ -1,0 +1,24 @@
+{
+  "name": "feecalculator",
+  "version": "1.0.0",
+  "description": "Electron application that allows user to view fee's when selling products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SunstroUS/FeeCalculator.git"
+  },
+  "keywords": [
+    "Streetwear",
+    "Fees",
+    "Calculator"
+  ],
+  "author": "Sunstro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SunstroUS/FeeCalculator/issues"
+  },
+  "homepage": "https://github.com/SunstroUS/FeeCalculator#readme"
+}
