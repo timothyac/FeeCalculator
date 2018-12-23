@@ -1,0 +1,16 @@
+html, body {
+  margin: 0px;
+  height: 100%;
+  width: 100%;
+  background-color: #FDFBFA;
+  color: #1E1E24;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#main-view {
+  margin-top: 0px;
+}
+
+#amount {
+  margin-top: 30px;
+}

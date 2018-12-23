@@ -2,9 +2,9 @@
   "name": "feecalculator",
   "version": "1.0.0",
   "description": "Electron application that allows user to view fee's when selling products.",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/SunstroUS/FeeCalculator/issues"
   },
-  "homepage": "https://github.com/SunstroUS/FeeCalculator#readme"
+  "homepage": "https://github.com/SunstroUS/FeeCalculator#readme",
+  "dependencies": {
+    "electron-titlebar": "0.0.3",
+    "jquery": "^3.3.1",
+    "mathjs": "^5.4.0"
+  },
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
 }
